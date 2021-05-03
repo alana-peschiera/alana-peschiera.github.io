@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Encargo 1</title>
+      <title>Encargo 1 Furniture</title>
       <link>https://alana-peschiera.github.io/docs/encargo1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -44,12 +44,21 @@
     </item>
     
     <item>
-      <title>Hybrid Furniture</title>
+      <title>Encargo final U1</title>
       <link>https://alana-peschiera.github.io/docs/hibridaci%C3%B3n/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://alana-peschiera.github.io/docs/hibridaci%C3%B3n/</guid>
       <description>Segundo encargo</description>
+    </item>
+    
+    <item>
+      <title>Entrevista</title>
+      <link>https://alana-peschiera.github.io/docs/entrevista/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alana-peschiera.github.io/docs/entrevista/</guid>
+      <description>Primer encargo U2</description>
     </item>
     
     <item>
@@ -68,6 +77,15 @@
       
       <guid>https://alana-peschiera.github.io/docs/encargo1_bb/</guid>
       <description>Segundo encargo U2</description>
+    </item>
+    
+    <item>
+      <title>Encargo 3 Bits &amp; Bites</title>
+      <link>https://alana-peschiera.github.io/docs/ecargo-3-bb/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alana-peschiera.github.io/docs/ecargo-3-bb/</guid>
+      <description>Tercer encargo U2</description>
     </item>
     
   </channel>
