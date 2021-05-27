@@ -88,5 +88,14 @@
       <description>Tercer encargo U2</description>
     </item>
     
+    <item>
+      <title>Encargo final U2</title>
+      <link>https://alana-peschiera.github.io/docs/final-u2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alana-peschiera.github.io/docs/final-u2/</guid>
+      <description>Recta final de la unidad 2</description>
+    </item>
+    
   </channel>
 </rss>
